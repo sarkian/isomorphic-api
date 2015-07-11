@@ -1,0 +1,22 @@
+{
+  "name": "isomorphic-api",
+  "version": "0.0.1",
+  "description": "API implementation for isomorphic applications.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarkian/isomorphic-api.git"
+  },
+  "author": {
+    "name": "Sarkian",
+    "email": "root@dustus.org",
+    "url": "http://github.com/sarkian/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarkian/isomorphic-api/issues"
+  },
+  "homepage": "https://github.com/sarkian/isomorphic-api"
+}
